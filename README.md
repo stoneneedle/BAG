@@ -21,10 +21,14 @@ the number of people we have per team.
 
 For each game we attempt, we will likely have 5-6 work groups:
 
-- Graphics / Animation Team: It's your job to find or build the assets that get used in the game world, including 
+- Story Team: It's your job to brainstorm for the game's concept and also write the characters/world setting, as well as
+the game's plot and overall concept.
+- Design Team: It's your job to find or build the assets that get used in the game world, including 
 things like trees (environment objects), the terrain (the environment itself), the sky (environment),
-and the characters that populate the game.
+and the characters that populate the game. You will also handle the graphics and animations required.
 - UI (User Interface) Team: It's your job to create the user interface, including the welcome screen, menus, and in-game
 interface used to play.
 - Engine Team: It's your job to script gameplay and make assets actually do what they need to in-game. Your job is to
 coordinate with the other teams and make the game function properly.
+
+Note that you may belong to more than one team, and everyone may have input into the creative process.
