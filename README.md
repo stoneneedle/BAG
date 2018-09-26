@@ -32,3 +32,6 @@ interface used to play.
 coordinate with the other teams and make the game function properly.
 
 Note that you may belong to more than one team, and everyone may have input into the creative process.
+
+Enter the Game: It may be possible to add 3D models of real-world objects, including ourselves, to our Unity project
+using a Microsoft Kinect to scan. If anyone has this device, please let me know.
