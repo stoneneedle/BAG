@@ -13,10 +13,12 @@ Check out his GitHub at https://github.com/Brackeys
 
 The following Brackeys repos will be of interest to us:
 
-- 2D
+- 2D Movement
+- 2D Character Controller
+- 2D Shooting
 - 2D Animation
 - 2D Camera
-- RPG-Tutorial
+- RPG Tutorial
 
 Packt Publishing
 
