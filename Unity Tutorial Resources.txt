@@ -1,4 +1,6 @@
-# Intro to Brackeys
+# Intro to Unity Tutorial Resources
+
+Brackeys
 
 Brackeys is a YouTuber who makes Unity tutorial videos and posts them online.
 
@@ -11,3 +13,7 @@ Check out his GitHub at https://github.com/Brackeys
 
 The following Brackeys repos will be of interest to us:
 
+- 2D
+- 2D Animation
+- 2D Camera
+- RPG-Tutorial
