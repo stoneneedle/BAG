@@ -27,3 +27,9 @@ Github: https://github.com/PacktPublishing/
 The repos we can use:
 
 - Unity-2018-Cookbook-Third-Edition
+- Mastering-Unity-2017-Game-Development-with-C-Sharp
+- Unity-2018-Artificial-Intelligence-Cookbook-Second-Edition
+- Practical-Unity-Game-Development
+- Unity-2018-By-Example-Second-Edition
+- Getting-Started-with-Unity-2018-Third-Edition
+- Hands-on-Game-Development-with-Unity-2018.1
