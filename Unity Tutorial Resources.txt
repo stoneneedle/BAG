@@ -33,3 +33,4 @@ The repos we can use:
 - Unity-2018-By-Example-Second-Edition
 - Getting-Started-with-Unity-2018-Third-Edition
 - Hands-on-Game-Development-with-Unity-2018.1
+- Unity-2018-Shaders-and-Effects-Cookbook-Third-Edition
