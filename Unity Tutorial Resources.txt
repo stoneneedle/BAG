@@ -17,3 +17,13 @@ The following Brackeys repos will be of interest to us:
 - 2D Animation
 - 2D Camera
 - RPG-Tutorial
+
+Packt Publishing
+
+This is a massive publisher with thousands of repos for numerous books.
+
+Github: https://github.com/PacktPublishing/
+
+The repos we can use:
+
+- Unity-2018-Cookbook-Third-Edition
