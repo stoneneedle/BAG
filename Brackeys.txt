@@ -1,0 +1,13 @@
+# Intro to Brackeys
+
+Brackeys is a YouTuber who makes Unity tutorial videos and posts them online.
+
+Brackeys's YouTube Channel: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+
+We're going to use many of these tutorials and snippets of code in designing and 
+developing our own games.
+
+Check out his GitHub at https://github.com/Brackeys
+
+The following Brackeys repos will be of interest to us:
+
